@@ -37,7 +37,7 @@ I’m passionate about **backend development**, **performance optimization**, an
 - Delivered clear technical documentation and collaborated with non-technical teams.  
 - **Most important features:**
   - **Review System**: implemented a post-purchase feedback flow that automatically sent customers an email after receiving their order. Each email included a unique, single-use token to prevent spam. Submitted reviews were manually moderated in the backoffice before being published in a slider on the website.
-  - **Partner Program**: implemented a loyalty/affiliation system with cross-registration. Customers could sign up either in the physical store or online, and their discount benefits were synchronized to work seamlessly in both channels.
+  - **Partner Program**: implemented a loyalty/affiliation system with cross-registration. Customers could sign up either in the physical store or online, and their discount benefits were synchronized to work seamlessly in both channels, in the back office, temporary discounts could be added, which were automatically activated and deactivated as configured..
   - **Abandoned Cart Recovery Module**: developed a backoffice tool that allowed sending personalized discount links to users who abandoned their carts. The link redirected them to a checkout page with all data prefilled and the discount applied, maximizing convenience and significantly increasing conversion
 
 [🌐 Visit website](https://sagreracanarias.es)
