@@ -30,7 +30,7 @@ I’m passionate about **backend development**, **performance optimization**, an
 
 ### 🔹 Sagrera Canarias – Full-Stack Developer (Internship)  
 *Apr 2025 – Jun 2025 | La Laguna*  
-- Developed and deployed production features (B2B, store reviews system, recommendation algorithm, partner program, abandoned cart recovery).  
+- Fully designed, developed and deployed production features with **complete autonomy**.  
 - Optimized critical processes with **CTEs**, reducing **+5000 SQL queries → 5**.  
 - Improved performance of heavy tasks (**1h → 15s**).  
 - Enhanced usability and mobile performance with **20+ UX/UI improvements**.  
