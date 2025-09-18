@@ -1,9 +1,13 @@
-# 👋 Hi, I'm Francisco Hernández (FranWDev)
+<h1 align="center">👋 Hi, I'm Francisco Hernández (FranWDev)</h1>
 
-**Backend Developer | Spring Boot**  
-📍 La Laguna, Santa Cruz de Tenerife  
+<p align="center"><strong>Backend Developer | Spring Boot</strong><br>
+📍 La Laguna, Santa Cruz de Tenerife</p>
 
-[LinkedIn](https://www.linkedin.com/in/franciscohdezcrosa/) | [GitHub](https://github.com/FranWDev) | [Email](mailto:hernandezcrosafrancisco@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/franciscohdezcrosa/">LinkedIn</a> • 
+  <a href="https://github.com/FranWDev">GitHub</a> • 
+  <a href="mailto:hernandezcrosafrancisco@gmail.com">Email</a>
+</p>
 
 ---
 
@@ -16,12 +20,16 @@ I’m passionate about **backend development**, **performance optimization**, an
 ---
 
 ## 🛠️ Technologies & Tools
-- **Java (Spring Boot, Data, Security)**
-- **JavaScript (Node.js, Express.js, Socket.io)**
-- **PHP (PrestaShop modules)**
-- **MySQL**
-- **HTML5, CSS3**
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+- **Java** (Spring Boot, Data, Security)  
+- **JavaScript** (Node.js, Express.js, Socket.io)  
+- **PHP** (PrestaShop modules)  
+- **MySQL**  
+- **HTML5, CSS3**  
 - **Git & GitHub**
+
+</div>
 
 ---
 
@@ -34,24 +42,30 @@ I’m passionate about **backend development**, **performance optimization**, an
 - Improved performance of heavy tasks (**1h → 15s**).  
 - Enhanced usability and mobile performance with **20+ UX/UI improvements**.  
 - Delivered clear technical documentation and collaborated with non-technical teams.  
-- **Most important features:**
-  - **Review System**: implemented a post-purchase feedback flow that automatically sent customers an email after receiving their order. Each email included a unique, single-use token to prevent spam. Submitted reviews were manually moderated in the backoffice before being published in a slider on the website.
-  - **Partner Program**: implemented a loyalty/affiliation system with cross-registration. Customers could sign up either in the physical store or online, and their discount benefits were synchronized to work seamlessly in both channels, in the back office, temporary discounts could be added, which were automatically activated and deactivated as configured..
-  - **Abandoned Cart Recovery Module**: developed a backoffice tool that allowed sending personalized discount links to users who abandoned their carts. The link redirected them to a checkout page with all data prefilled and the discount applied, maximizing convenience and significantly increasing conversion
 
-[🌐 Visit website](https://sagreracanarias.es)
+#### 🔧 Most important features:
+- **Review System**:  
+  Implemented a post-purchase feedback flow with unique, single-use tokens to prevent spam. Moderated reviews before publishing them in a slider on the website.
+
+- **Partner Program**:  
+  Built a loyalty system with cross-registration between store and online users, including timed automatic discounts.
+
+- **Abandoned Cart Recovery Module**:  
+  Developed a backoffice tool that sent personalized discount links to users, redirecting them to a prefilled checkout page to improve conversion rates.
+
+🔗 [Visit website](https://sagreracanarias.es)
 
 ---
 
 ## 📂 Featured Projects
 
 ### 📌 [Backend Chat System](https://github.com/FranWDev/backend-chat-system)  
-Node.js · Express.js · JWT · Socket.io  
-> Small poject for learning, a Real-time private chat app with admin panel and secure JWT authentication.
+**Node.js · Express.js · JWT · Socket.io**  
+> Small project for learning — a real-time private chat app with admin panel and secure JWT authentication.
 
 ### 📌 Proyecto Dubini *(Work in progress)*  
-Spring Boot · Docker · AES-256 · JWT · REST APIs  
-> The digital platform of a **youth environmental organization** focused on **climate change and respect for the environment**. Designed with efficiency and sustainability in mind, it includes an independent backoffice service to upload posts to the blog.
+**Spring Boot · Docker · AES-256 · JWT · REST APIs**  
+> Digital platform for a **youth environmental organization** focused on **climate change and sustainability**. Includes a dedicated backoffice to upload blog content.
 
 ---
 
@@ -65,6 +79,4 @@ Spring Boot · Docker · AES-256 · JWT · REST APIs
 
 ## 🌐 Languages
 - 🇪🇸 Spanish (Native)  
-- 🇬🇧 English (B2 Certified)  
-
----
+- 🇬🇧 English (B2 Certified)
