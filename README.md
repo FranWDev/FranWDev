@@ -3,7 +3,7 @@
 **Backend Developer | Spring Boot**  
 📍 La Laguna, Santa Cruz de Tenerife  
 
-[LinkedIn](https://www.linkedin.com/in/franciscohdezcrosa/) | [GitHub](https://github.com/FranWDev) | [Email](mailto:hernandezcrosafrancisco@gmail.com) [Portfolio](https://franwdev.github.io/portfolio/)
+[LinkedIn](https://www.linkedin.com/in/franciscohdezcrosa/) | [GitHub](https://github.com/FranWDev) | [Email](mailto:hernandezcrosafrancisco@gmail.com) | [Portfolio](https://franwdev.github.io/portfolio/)
 
 ---
 
