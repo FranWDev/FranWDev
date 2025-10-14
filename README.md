@@ -16,10 +16,10 @@ I’m passionate about **backend development**, **performance optimization**, an
 ---
 
 ## 🛠️ Technologies & Tools
-- **Java (Spring Boot, Data, Security)**
+- **Java (Spring Boot, Data, Security, Cloud)**
 - **JavaScript (Node.js, Express.js, Socket.io)**
 - **PHP (PrestaShop modules)**
-- **MySQL**
+- **MySQL, MariaDB, PostgreSQL**
 - **HTML5, CSS3**
 - **Git & GitHub**
 
