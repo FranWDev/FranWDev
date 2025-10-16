@@ -22,7 +22,7 @@ I’m passionate about **backend development**, **performance optimization**, an
 - **MySQL, MariaDB, PostgreSQL**
 - **HTML5, CSS3**
 - **Git & GitHub**
-
+- **Docker**
 ---
 
 ## 💼 Experience
