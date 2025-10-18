@@ -23,6 +23,7 @@ I’m passionate about **backend development**, **performance optimization**, an
 - **HTML5, CSS3**
 - **Git & GitHub**
 - **Docker**
+- **OpenAPI & Swagger**
 ---
 
 ## 💼 Experience
