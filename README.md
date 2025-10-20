@@ -24,6 +24,7 @@ I’m passionate about **backend development**, **performance optimization**, an
 - **Git & GitHub**
 - **Docker**
 - **OpenAPI & Swagger**
+- **JUnit5 & Mockito**
 ---
 
 ## 💼 Experience
