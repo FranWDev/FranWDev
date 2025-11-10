@@ -51,7 +51,7 @@ Node.js · Express.js · JWT · Socket.io
 > Small poject for learning, a Real-time private chat app with admin panel and secure JWT authentication.
 
 ### 📌 Proyecto Dubini *(Work in progress)*  
-Spring Boot · Spring Security · Docker · JWT · GitHub Actions
+Spring Boot · Docker · JWT · Microservices
 > The digital platform of a **youth environmental organization** focused on **climate change and respect for the environment**. Designed with efficiency and sustainability in mind, it includes an independent backoffice service to upload posts to the blog.
 
 ---
