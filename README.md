@@ -42,6 +42,10 @@ I’m passionate about **backend development**, **performance optimization**, an
 
 [🌐 Visit website](https://sagreracanarias.es)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FranWDev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranWDev&layout=compact&theme=tokyonight)
+
 ---
 
 ## 📂 Featured Projects
