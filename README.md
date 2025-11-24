@@ -59,8 +59,9 @@ Node.js · Express.js · Socket.io
 Spring Boot · Docker · JWT · Microservices
 > The digital platform of a **youth environmental organization** focused on **climate change and respect for the environment**. Designed with efficiency and sustainability in mind, it includes an independent backoffice service to upload posts to the blog.
 
-[Frontend Provider Service](https://github.com/FranWDev/AJPD-FrontendAPI)
-[Backofice Service](https://github.com/FranWDev/AJPD-BackofficeAPI/tree/development)
+> [Frontend Provider Service](https://github.com/FranWDev/AJPD-FrontendAPI)
+> [Backofice Service](https://github.com/FranWDev/AJPD-BackofficeAPI/tree/development)
+
 ---
 
 ## 🌱 Currently Learning
