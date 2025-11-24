@@ -52,19 +52,21 @@ I’m passionate about **backend development**, **performance optimization**, an
 ## 📂 Featured Projects
 
 ### 📌 [Backend Chat System](https://github.com/FranWDev/backend-chat-system)  
-Node.js · Express.js · JWT · Socket.io  
+Node.js · Express.js · Socket.io  
 > Small poject for learning, a Real-time private chat app with admin panel and secure JWT authentication.
 
 ### 📌 [Proyecto Dubini](https://proyectodubini.onrender.com/)  
 Spring Boot · Docker · JWT · Microservices
 > The digital platform of a **youth environmental organization** focused on **climate change and respect for the environment**. Designed with efficiency and sustainability in mind, it includes an independent backoffice service to upload posts to the blog.
 
+[Frontend Provider Service](https://github.com/FranWDev/AJPD-FrontendAPI)
+[Backofice Service](https://github.com/FranWDev/AJPD-BackofficeAPI/tree/development)
 ---
 
 ## 🌱 Currently Learning
 - **Microservices & distributed architectures**  
-- **Docker**  
-- **Advanced Git workflows**  
+- **CI/CD Pipelines with GitHub Actionsr**  
+- **Kafka messaging**  
 - **Clean architecture & documentation best practices**
 
 ---
