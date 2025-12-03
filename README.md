@@ -100,16 +100,19 @@ I’m passionate about **backend development**, **performance optimization**, an
 ### 📌 [Proyecto Dubini](https://www.proyectodubini.org/)
 
 **Spring Boot · Spring Security · Spring Data · Git · GitHub Actions · Pipelines · Docker · WebFlux · Microservices**
+
 Full blogging platform built with a distributed Spring Boot architecture optimized to reduce load and bandwidth usage. Features a modern, low-latency frontend and a multi-layer caching system with event‑based invalidation and persistent fallback. More information available in my portfolio.
 
 ### 📌 [Inventory Management System (Final Project)](https://github.com/FranWDev/proyecto-turing)
 
 **Spring Boot · Spring Data · Spring Security · Apache Kafka · PostgreSQL · Swagger/OpenAPI · Docker · JUnit5 & Mockito · Docker‑compose**
+
 Backend for an inventory management application following best practices, performance optimizations, and a scalable architecture. More information available in my portfolio.
 
 ### 📌 [Real-Time Chat](https://github.com/FranWDev/backend-chat-system)
 
 **JavaScript · Node.js · Express.js · JWT · Socket.io**
+
 Learning project: a real‑time messaging platform built with Node.js, including JWT authentication, admin panel, and bidirectional communication with Socket.io.
 
 ---
