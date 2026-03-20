@@ -103,7 +103,7 @@ I’m passionate about **backend development**, **performance optimization**, an
 
 Full blogging platform built with a distributed Spring Boot architecture optimized to reduce load and bandwidth usage. Features a modern, low-latency frontend and a multi-layer caching system with event‑based invalidation and persistent fallback. More information available in my portfolio.
 
-### 📌 [Inventory Management System (Final Project)](https://github.com/FranWDev/proyecto-turing)
+### 📌 [Inventory Management System (Final Project)](https://github.com/FranWDev/smart-economato-API)
 
 **Spring Boot · Spring Data · Spring Security · Apache Kafka · PostgreSQL · Swagger/OpenAPI · Docker · JUnit5 & Mockito · Docker‑compose**
 
