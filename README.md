@@ -74,27 +74,6 @@ I’m passionate about **backend development**, **performance optimization**, an
 
 ---
 
-## 💼 Experience
-
-### 🔹 Sagrera Canarias – Full-Stack Developer (Internship)
-
-*Apr 2025 – Jun 2025 | La Laguna*
-
-* Fully designed, developed and deployed production features with **complete autonomy**.
-* Optimized critical processes with **CTEs**, reducing **+5000 SQL queries → 5**.
-* Improved performance of heavy tasks (**1h → 15s**).
-* Enhanced usability and mobile performance with **20+ UX/UI improvements**.
-* Delivered clear technical documentation and collaborated with non-technical teams.
-* **Most important features:**
-
-  * **Review System**: automated post‑purchase email flow with single‑use tokens and moderated publication.
-  * **Partner Program**: loyalty/affiliation program with cross‑channel synchronization and automatic temporary discount activation.
-  * **Abandoned Cart Recovery Module**: backoffice tool generating personalized discount links that restored checkout state and increased conversion.
-
-[🌐 Visit website](https://sagreracanarias.es)
-
----
-
 ## 📂 Featured Projects
 
 ### 📌 [Proyecto Dubini](https://www.proyectodubini.org/)
@@ -119,11 +98,9 @@ Learning project: a real‑time messaging platform built with Node.js, including
 
 ## 🌱 Currently Learning
 
-* **Microservices & distributed architectures**
-* **CI/CD Pipelines with GitHub Actions**
-* **Kafka messaging**
-* **Clean architecture & documentation best practices**
-
+* **AI Multi-agent coding**
+* **AI Context-Driven Development (AI CCD)**
+* **Advanced DevOps & Infrastructure practices**
 ---
 
 ## 📊 GitHub Stats
