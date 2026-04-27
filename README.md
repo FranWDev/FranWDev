@@ -77,9 +77,16 @@ Full blogging platform built with a distributed Spring Boot architecture optimiz
 
 ### 📌 [Smart Economato (Final Project)](https://github.com/FranWDev/smart-economato-API)
 
-**Spring Boot · Spring Data · Spring Security · Apache Kafka · PostgreSQL · Swagger/OpenAPI · Docker · JUnit5 & Mockito · Docker‑compose**
+**Java 25 · Spring Boot 4.x · Hexagonal Architecture · Apache Kafka · NestJS · FastAPI · Prometheus/Grafana · Docker Compose**
 
-Backend for an inventory management application following best practices, performance optimizations, and a scalable architecture. More information available in the repo.
+A comprehensive inventory management ecosystem for culinary schools designed as a **Modular Monolith** with a core **Hexagonal Architecture**. The system integrates polyglot satellite services, 
+including an AI Agent (Model Context Protocol) built with **NestJS** and a demand forecasting engine powered by **FastAPI** and Prophet. 
+
+Engineered for high availability and resilience, it features **Event-Driven** communication via **Apache Kafka**, **CQRS** with PostgreSQL read-replicas,
+and a **Semantic Memory Graph** for intelligent AI context management. 
+
+The entire infrastructure is orchestrated via **Docker Compose** with a custom automation layer for local deployment and full-stack observability through **Prometheus and Grafana**. 
+*Detailed documentation, architectural diagrams, and installation guides are available in the repository.*
 
 ### 📌 [Real-Time Chat](https://github.com/FranWDev/backend-chat-system)
 
