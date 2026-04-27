@@ -100,10 +100,12 @@ Learning project: a real‑time messaging platform built with Node.js, including
 
 **Minecraft Forge Mod Development**
 > ![Minecraft](https://img.shields.io/badge/Minecraft%20Forge-EA721E?style=for-the-badge&logo=minecraft&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 > Developing custom mods and game mechanics using the Forge framework.
 
 **Advanced DevOps & Infrastructure**
 > ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
 > Mastering container orchestration and Infrastructure as Code (IaC) practices.
 
 ---
