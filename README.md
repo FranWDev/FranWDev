@@ -98,8 +98,7 @@ Learning project: a real‑time messaging platform built with Node.js, including
 
 ## 🌱 Currently Learning
 
-* **AI Multi-agent coding**
-* **AI Context-Driven Development (AI CCD)**
+* **Minecraft forge mod development**
 * **Advanced DevOps & Infrastructure practices**
 ---
 
