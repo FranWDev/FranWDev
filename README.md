@@ -8,16 +8,6 @@
 
 ---
 
-# 💫 About Me
-
-Backend developer focused on **Spring Boot** and **clean, scalable code**.
-Currently collaborating with **Proyecto Dubini
-[https://www.proyectodubini.org/](https://www.proyectodubini.org/)**, a youth-led environmental organization focused on **climate change and sustainability**, where I’m building their digital platform with an emphasis on **efficiency and eco‑friendly design**.
-
-I’m passionate about **backend development**, **performance optimization**, and building **modular, maintainable systems**. Always curious, always learning.
-
----
-
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/franciscohdezcrosa)
@@ -82,11 +72,11 @@ I’m passionate about **backend development**, **performance optimization**, an
 
 Full blogging platform built with a distributed Spring Boot architecture optimized to reduce load and bandwidth usage. Features a modern, low-latency frontend and a multi-layer caching system with event‑based invalidation and persistent fallback. More information available in my portfolio.
 
-### 📌 [Inventory Management System (Final Project)](https://github.com/FranWDev/smart-economato-API)
+### 📌 [Smart Economato (Final Project)](https://github.com/FranWDev/smart-economato-API)
 
 **Spring Boot · Spring Data · Spring Security · Apache Kafka · PostgreSQL · Swagger/OpenAPI · Docker · JUnit5 & Mockito · Docker‑compose**
 
-Backend for an inventory management application following best practices, performance optimizations, and a scalable architecture. More information available in my portfolio.
+Backend for an inventory management application following best practices, performance optimizations, and a scalable architecture. More information available in the repo.
 
 ### 📌 [Real-Time Chat](https://github.com/FranWDev/backend-chat-system)
 
