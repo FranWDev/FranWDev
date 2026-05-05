@@ -18,8 +18,6 @@
 ### 🚀 Backend, IA & Core Technologies
 ![Java 25](https://img.shields.io/badge/java%2025-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot 4.x](https://img.shields.io/badge/Spring%20Boot%204.x-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Virtual Threads](https://img.shields.io/badge/Virtual%20Threads-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-orange?style=for-the-badge)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
@@ -44,18 +42,14 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-STOMP%2FJS-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Zoneless](https://img.shields.io/badge/Angular-Zoneless-black?style=for-the-badge&logo=angular)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🛠️ Libraries, Testing & Tools
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-6DB33F?style=for-the-badge&logo=docker&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-59666C?style=for-the-badge&logo=Mockito&logoColor=white)
 ![MapStruct](https://img.shields.io/badge/MapStruct-1.6-orange?style=for-the-badge)
 ![iText 8](https://img.shields.io/badge/iText%208-PDF%20Generation-red?style=for-the-badge)
 ![Apache POI](https://img.shields.io/badge/Apache%20POI-Excel%20Tools-blue?style=for-the-badge)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Scalar](https://img.shields.io/badge/Scalar-API%20Docs-6DB33F?style=for-the-badge&logo=openapi&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6DB33F?style=for-the-badge&logo=OpenAPI&logoColor=white)
 
