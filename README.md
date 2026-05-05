@@ -69,12 +69,6 @@
 
 ## 📂 Featured Projects
 
-### 📌 [Proyecto Dubini](https://www.proyectodubini.org/)
-
-**Spring Boot · Spring Security · Spring Data · Git · GitHub Actions · Pipelines · Docker · WebFlux · Microservices**
-
-Full blogging platform built with a distributed Spring Boot architecture optimized to reduce load and bandwidth usage. Features a modern, low-latency frontend and a multi-layer caching system with event‑based invalidation and persistent fallback. More information available in my portfolio.
-
 ### 📌 [Smart Economato (Final Project)](https://github.com/FranWDev/smart-economato-API)
 
 **Java 25 · Virtual Threads · Spring Boot 4.x · Hexagonal Architecture · Apache Kafka · NestJS · FastAPI · Prometheus/Grafana · Docker Compose**
@@ -87,6 +81,20 @@ and a **Semantic Memory Graph** for intelligent AI context management.
 
 The entire infrastructure is orchestrated via **Docker Compose** with a custom automation layer for local deployment and full-stack observability through **Prometheus and Grafana**. 
 *Detailed documentation, architectural diagrams, and installation guides are available in the repository.*
+
+### 📌 [Epic Scorch: Reforged](https://github.com/FranWDev/EpicScorch-Reforged)
+
+**Java · Minecraft Forge · Epic Fight API · Mixins · Tactical Combat Mechanics**
+
+Unofficial bridge and expansion between **Epic Fight** and **Scorched Guns 2**. This project implements a **Hybrid Animation System** (FPS/Third-Person) and a complex combat balancing layer that integrates firearms into the **Epic Fight stamina and movement engine**.
+
+Engineered for tactical gameplay, it features dynamic stamina consumption based on recoil, movement-based action restrictions (sprinting, jumping, dodging), and a rebalanced bullet-blocking system. Includes a custom configuration layer for full gameplay atomicity and balance adjustments.
+
+### 📌 [Proyecto Dubini](https://www.proyectodubini.org/)
+
+**Spring Boot · Spring Security · Spring Data · Git · GitHub Actions · Pipelines · Docker · WebFlux · Microservices**
+
+Full blogging platform built with a distributed Spring Boot architecture optimized to reduce load and bandwidth usage. Features a modern, low-latency frontend and a multi-layer caching system with event‑based invalidation and persistent fallback. More information available in my portfolio.
 
 ### 📌 [Real-Time Chat](https://github.com/FranWDev/backend-chat-system)
 
