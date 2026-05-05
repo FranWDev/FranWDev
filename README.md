@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Francisco Hernández (FranWDev)](https://franwdev.github.io/portfolio/)
 
-**Backend Developer | Spring Boot**
+**Backend Developer | Spring Boot 4.0, Java 25 & Virtual Threads**
 
 [LinkedIn](https://www.linkedin.com/in/franciscohdezcrosa/) · [GitHub](https://github.com/FranWDev) · [Email](mailto:hernandezcrosafrancisco@gmail.com) · [Portfolio](https://franwdev.github.io/portfolio/)
 
@@ -77,7 +77,7 @@ Full blogging platform built with a distributed Spring Boot architecture optimiz
 
 ### 📌 [Smart Economato (Final Project)](https://github.com/FranWDev/smart-economato-API)
 
-**Java 25 · Spring Boot 4.x · Hexagonal Architecture · Apache Kafka · NestJS · FastAPI · Prometheus/Grafana · Docker Compose**
+**Java 25 · Virtual Threads · Spring Boot 4.x · Hexagonal Architecture · Apache Kafka · NestJS · FastAPI · Prometheus/Grafana · Docker Compose**
 
 A comprehensive inventory management ecosystem for culinary schools designed as a **Modular Monolith** with a core **Hexagonal Architecture**. The system integrates polyglot satellite services, 
 including an AI Agent (Model Context Protocol) built with **NestJS** and a demand forecasting engine powered by **FastAPI** and Prophet. 
