@@ -139,10 +139,10 @@ Learning project: a real‑time messaging platform built with Node.js, including
 
 > Developing custom mods and game mechanics using the Forge framework.
 
-**Advanced DevOps & Infrastructure**
-> ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+**Microservices & Distributed Systems**
+> ![Microservices](https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge&logo=target&logoColor=white) ![System Design](https://img.shields.io/badge/System_Design-FF9900?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
-> Mastering container orchestration and Infrastructure as Code (IaC) practices.
+> Mastering distributed patterns (Saga, BFF, Distributed Tracing, Event Sourcing...) and scalable microservices architecture.
 
 ---
 
