@@ -80,7 +80,9 @@
 ## 💼 Professional Experience
 
 **Backend Developer (Spring Boot - Java 11, 17 & 21)**
+
 Atlantis Technology
+
 Jan 2026 - Present
 
 * **Nautical Permits Management System (Government of the Canary Islands):**
