@@ -110,6 +110,8 @@ and a **Semantic Memory Graph** for intelligent AI context management.
 The entire infrastructure is orchestrated via **Docker Compose** with a custom automation layer for local deployment and full-stack observability through **Prometheus and Grafana**. 
 *Detailed documentation, architectural diagrams, and installation guides are available in the repository.*
 
+Yeah, it’s overengineered through the roof. Don’t expect any KISS principles in this repo; it's a dedicated playground for over-complicating things with advanced architecture :)
+
 ### 📌 [Epic Scorch: Reforged](https://github.com/FranWDev/EpicScorch-Reforged)
 
 **Java · Minecraft Forge · Epic Fight API · Mixins · Tactical Combat Mechanics**
