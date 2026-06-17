@@ -156,4 +156,4 @@ Learning project: a real‑time messaging platform built with Node.js, including
 ## 🌐 Languages
 
 * 🇪🇸 Spanish (Native)
-* 🇬🇧 English (B2 Certified)
+* 🇬🇧 English (Intermedium)
