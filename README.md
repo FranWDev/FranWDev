@@ -77,24 +77,6 @@
 
 ---
 
-## 💼 Professional Experience
-
-**Backend Developer (Spring Boot - Java 11, 17 & 21)**
-
-Atlantis Technology
-
-Jan 2026 - Present
-
-* **Nautical Permits Management System (Government of the Canary Islands):**
-    * Executed a full modernization and optimization of critical endpoints, achieving a **98% latency reduction** (from 2.2s to 35ms).
-    * Optimized algorithmic complexity from **O(N) to O(1)** and eradicated **N+1 query issues** across 100+ database interactions.
-* **Legacy Systems Migration (CanaryFly):**
-    * Full execution (end-to-end) upgrade from **Java 11 to 21** (1 million lines monolith), implementing **Virtual Threads** to enhance concurrency while ensuring zero service downtime and environment stability.
-* **Cargo Tracking System (Atlantis Cargo):**
-    * Active contributor to the core development team, taking ownership of high-impact business logic and implementing key features within the logistics flow.
-
----
-
 ## 📂 Featured Projects
 
 ### 📌 [Smart Economato (Final Project)](https://github.com/FranWDev/smart-economato-API)
