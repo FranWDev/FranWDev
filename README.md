@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Francisco Hernández (FranWDev)](https://franwdev.github.io/portfolio/)
 
-**Backend Developer | Spring Boot 4.0, Java 25 & Virtual Threads**
+**Backend Developer & Minecraft Modder | Spring Boot 4.0, Java 25 & Virtual Threads**
 
 [LinkedIn](https://www.linkedin.com/in/franciscohdezcrosa/) · [GitHub](https://github.com/FranWDev) · [Email](mailto:hernandezcrosafrancisco@gmail.com) · [Portfolio](https://franwdev.github.io/portfolio/)
 
@@ -106,7 +106,7 @@ Engineered for tactical gameplay, it features dynamic stamina consumption based 
 
 **Spring Boot · Spring Security · Spring Data · Git · GitHub Actions · Pipelines · Docker · WebFlux · Microservices**
 
-Full blogging platform built with a distributed Spring Boot architecture optimized to reduce load and bandwidth usage. Features a modern, low-latency frontend and a multi-layer caching system with event‑based invalidation and persistent fallback. More information available in my portfolio.
+Full blogging platform built with a distributed Spring Boot architecture optimized to reduce load and bandwidth usage. Features a modern, low-latency frontend and a multi-layer caching system with event‑based invalidation and persistent fallback. More information available in my portfolio. You can also take a look at https://github.com/FranWDev/AJPD-Gestion-Backend and https://github.com/FranWDev/AJPD-Gestion-Frontend (My latest AJPD work ;) )
 
 ### 📌 [Real-Time Chat](https://github.com/FranWDev/backend-chat-system)
 
