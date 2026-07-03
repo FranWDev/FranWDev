@@ -2,15 +2,6 @@
 
 **Backend Developer & Minecraft Modder | Spring Boot 4.0, Java 25 & Virtual Threads**
 
-[LinkedIn](https://www.linkedin.com/in/franciscohdezcrosa/) · [GitHub](https://github.com/FranWDev) · [Email](mailto:hernandezcrosafrancisco@gmail.com) · [Portfolio](https://franwdev.github.io/portfolio/)
-
----
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/franciscohdezcrosa)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:hernandezcrosafrancisco@gmail.com)
-
 ---
 
 # 💻 Tech Stack
