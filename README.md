@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Francisco Hernández (FranWDev)](https://franwdev.github.io/portfolio/)
 
-**Backend Developer & Minecraft Modder | Spring Boot 4.0, Java 25 & Virtual Threads**
+**Backend Developer | Spring Boot 4.0, Java 25 & Virtual Threads**
 
 ---
 
