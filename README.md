@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Francisco Hernández (FranWDev)](https://franwdev.github.io/portfolio/)
 
-**Backend Developer | Spring Boot & Java | I also like making small Minecraft mods ***
+** Backend Developer | Spring Boot & Java | I also like making small Minecraft mods **
 
 ---
 
